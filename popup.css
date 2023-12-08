@@ -1,0 +1,10 @@
+ul{
+    min-width: 300px;
+    scroll-behavior: auto;
+}
+li{
+    padding-bottom: 10px;
+    padding-top: 10px;
+    border-bottom: 1px solid ;
+    
+}

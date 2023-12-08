@@ -1,0 +1,11 @@
+{
+    "name" : "Indian News Rhyme & Bias",
+    "version" : "0.0.1",
+    "description" : "Making easy and simple to read Newspaper",
+    "manifest_version" : 3,
+    "author" : "Gaurav Asode",
+    "action" : {
+        "default_popup" : "index.html",
+        "default_title" : "Newspaper rytham and bias"
+    }
+}
